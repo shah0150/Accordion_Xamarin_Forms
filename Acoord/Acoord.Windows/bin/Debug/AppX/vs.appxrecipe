@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-UDM2LTS</Machine>
+    <WindowsUser>Adesh Shah</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>85930d70-750c-41a6-9b95-03faaed4159c</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\Acoord\Acoord.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>EFE411D33DD4BC732656E871EB451BFBA48D8FD97C57F396C65D8C6420863EC0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>85930d70-750c-41a6-9b95-03faaed4159c_1.0.0.0_neutral__nh7s0b45jarrj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>85930d70-750c-41a6-9b95-03faaed4159c_nh7s0b45jarrj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>85930d70-750c-41a6-9b95-03faaed4159c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=joaqu</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\Acoord\Acoord.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-12T04:10:33.396</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\Acoord\Acoord.Windows\bin\Debug\Acoord.Windows.exe">
+      <PackagePath>Acoord.Windows.exe</PackagePath>
+      <Modified>2016-08-12T04:12:51.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\Acoord\Acoord\bin\Debug\Acoord.dll">
+      <PackagePath>Acoord.dll</PackagePath>
+      <Modified>2016-08-12T04:12:50.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+      <Modified>2015-11-17T12:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+      <Modified>2015-11-17T12:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+      <Modified>2015-11-17T12:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
+      <Modified>2015-11-17T12:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+      <Modified>2015-11-17T12:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\Acoord\Acoord.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-12T04:02:59.817</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\Acoord\Acoord.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-12T04:02:59.819</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\Acoord\Acoord.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-12T04:02:59.823</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\Acoord\Acoord.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-12T04:02:59.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\Acoord\Acoord.Windows\bin\Debug\Acoord.Windows.xr.xml">
+      <PackagePath>Acoord.Windows.xr.xml</PackagePath>
+      <Modified>2016-08-12T04:10:32.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\Acoord\Acoord.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-08-12T04:10:32.818</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\Acoord\Acoord.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-08-12T04:10:32.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf</PackagePath>
+      <Modified>2015-11-17T12:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+      <Modified>2015-11-17T12:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+      <Modified>2015-11-17T12:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+      <Modified>2015-11-17T12:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
+      <Modified>2015-11-17T12:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
+      <Modified>2015-11-17T12:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
+      <Modified>2015-11-17T12:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\Acoord\Acoord.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-08-12T04:10:33.222</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

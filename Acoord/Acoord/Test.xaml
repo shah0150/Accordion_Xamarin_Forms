@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Acoord.Test">
+  <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
+  <StackLayout>
+
+    <Button x:Name="cmdButton1" Text="Change Cell Heights" Clicked="cmdButton1_Clicked"/>
+
+    <ListView x:Name="lstItems" />
+
+  </StackLayout>
+</ContentPage>

@@ -1,0 +1,2 @@
+c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\Acoord\Acoord.Windows\Acoord.Windows.csproj;neutral
+c:\users\adesh shah\documents\visual studio 2015\Projects\Acoord\Acoord\Acoord\Acoord.csproj;neutral
